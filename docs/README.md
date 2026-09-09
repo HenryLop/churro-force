@@ -14,7 +14,8 @@ git diff ──▶ 1. change analysis ──▶ 2. test selection + run ──�
 | # | Page | Covers |
 | --- | --- | --- |
 | 00 | [Architecture](00-architecture.md) | The pipeline, decisions locked, roadmap |
-| 01 | [The agent loop](01-the-agent-loop.md) | The reusable harness every stage runs on |
+| 01 | [The agent loop](01-the-agent-loop.md) | The reusable harness every stage runs on — the *why* |
+| 01a | [The harness, line by line](01a-harness-line-by-line.md) | Every meaningful line of `tools.py` and `agent.py`, the concept behind it, a worked message trace, and exercises |
 
 ## Build status
 
